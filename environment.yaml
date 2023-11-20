@@ -2,4 +2,8 @@ name: assignment7
 channels:
   - conda-forge
   - defaults
+dependencies:
+  - nbconvert
+  - ipykernel
+  - jupyterlab
 prefix: C:\Users\bergs\miniconda3\envs\assignment7
